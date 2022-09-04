@@ -1,0 +1,32 @@
+{
+  "domainName": "express.web-framework.1941811508139144.cn-hangzhou.fc.devsapp.net",
+  "accountId": "1941811508139144",
+  "protocol": "HTTP",
+  "certConfig": {
+    "certName": null,
+    "privateKey": null,
+    "certificate": null
+  },
+  "tlsConfig": {
+    "minVersion": null,
+    "maxVersion": null,
+    "cipherSuites": null
+  },
+  "apiVersion": "2016-08-15",
+  "routeConfig": {
+    "routes": [
+      {
+        "path": "/*",
+        "accountId": null,
+        "serviceName": "web-framework",
+        "functionName": "express",
+        "qualifier": null,
+        "methods": [
+          "GET"
+        ]
+      }
+    ]
+  },
+  "createdTime": "2022-07-05T07:10:03Z",
+  "lastModifiedTime": "2022-07-25T07:49:21Z"
+}

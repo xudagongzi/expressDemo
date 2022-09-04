@@ -1,0 +1,38 @@
+{
+  "statefulConfig": {
+    "functionId": "a7b11336-b712-437e-b4a9-76c28680b07b",
+    "functionName": "express",
+    "description": "Serverless Devs Web Framework Function",
+    "runtime": "custom",
+    "handler": "index.handler",
+    "timeout": 60,
+    "initializer": "",
+    "initializationTimeout": 3,
+    "codeSize": 765416,
+    "codeChecksum": "3520151178647098389",
+    "memorySize": 128,
+    "gpuMemorySize": null,
+    "environmentVariables": {},
+    "createdTime": "2022-07-05T07:09:59Z",
+    "lastModifiedTime": "2022-07-25T07:49:21Z",
+    "instanceConcurrency": 1,
+    "instanceSoftConcurrency": null,
+    "customContainerConfig": null,
+    "caPort": 9000,
+    "instanceType": "e1",
+    "layers": null,
+    "instanceLifecycleConfig": {
+      "preFreeze": {
+        "handler": "",
+        "timeout": 3
+      },
+      "preStop": {
+        "handler": "",
+        "timeout": 3
+      }
+    },
+    "customDNS": null,
+    "customRuntimeConfig": null,
+    "name": "express"
+  }
+}

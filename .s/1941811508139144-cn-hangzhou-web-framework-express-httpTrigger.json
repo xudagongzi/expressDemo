@@ -1,0 +1,22 @@
+{
+  "statefulConfig": {
+    "triggerName": "httpTrigger",
+    "description": "",
+    "triggerId": "038eb5d3-85ea-4d09-a407-7af3d070f94e",
+    "sourceArn": null,
+    "triggerType": "http",
+    "invocationRole": null,
+    "qualifier": null,
+    "urlInternet": "https://express-web-framework-yaehuljzrc.cn-hangzhou.fcapp.run",
+    "urlIntranet": "https://express-web-framework-yaehuljzrc.cn-hangzhou-vpc.fcapp.run",
+    "triggerConfig": {
+      "methods": [
+        "GET"
+      ],
+      "authType": "anonymous"
+    },
+    "createdTime": "2022-07-05T07:09:59Z",
+    "lastModifiedTime": "2022-07-25T07:49:21Z",
+    "name": "httpTrigger"
+  }
+}

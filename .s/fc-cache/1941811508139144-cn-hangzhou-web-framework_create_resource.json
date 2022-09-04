@@ -1,0 +1,9 @@
+{
+  "serviceName": "web-framework",
+  "functionNames": [
+    "web-framework/express"
+  ],
+  "domains": [
+    "express.web-framework.1941811508139144.cn-hangzhou.fc.devsapp.net"
+  ]
+}
